@@ -16,11 +16,5 @@ Here are some of my skills:
 - 🎨 **CSS**  
 - 📊 **Bootstrap**  
 
-### Let's Connect!
-
-- 📧 **Gmail:** [ali.momeni11.am@gmail.com](mailto:ali.momeni11.am@gmail.com)  
-- 🌐 **LinkedIn:** [Ali Momeni](https://www.linkedin.com/in/alimph/)  
-- 📸 **Instagram:** [Ali.m.j.m.m](https://www.instagram.com/Ali.m.j.m.m)  
-- 📺 **YouTube:** [viraDevelop](https://www.youtube.com/@viraDevelop)  
 
 Feel free to explore my repositories and connect with me!
